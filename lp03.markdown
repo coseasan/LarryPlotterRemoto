@@ -1,0 +1,3 @@
+# Larry Plotter y el prisionero del *firewall*
+
+Un supuesto hacker maligno se salta el *firewall* y siembra el *kernel panic*. Pero resulta que el prisionero es familia de **Larry** y que es de los buenos.
