@@ -1,0 +1,3 @@
+# Larry ploter y el Malware de fuego
+
+Una importante hackaton se celebra en la escuela y el portátil de un compañero de *Larry** se avería debido a un ataque de **Balmermort**, perdiendo así toda la saga *Crepúsculo* en PDF que tenía guardado.
