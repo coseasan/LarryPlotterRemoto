@@ -3,3 +3,5 @@
 Desde que en *Matrix* hubo un bug, la escuela se encuentra asediada por un virus contra el que **Larry** y sus amigos deberán luchar.
 
 En esta aventura Larry se enterará de nuevos detalles sobre su destino.
+
+Como el malvado hacker **Valmermort** le metió un troyano, en su propio código podría esconderse un malware.
